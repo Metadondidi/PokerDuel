@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 
 // Firebase config - Utilise ta propre config ou celle-ci pour test
 const FIREBASE_CONFIG = {
-  databaseURL: "https://poker-duel-game-default-rtdb.europe-west1.firebasedatabase.app"
+  databaseURL: "https://poker-duel-26992-default-rtdb.europe-west1.firebasedatabase.app"
 };
 
 // Simple Firebase REST API wrapper
