@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 
 const FIREBASE_CONFIG = {
-  databaseURL: "https://poker-duel-game-default-rtdb.europe-west1.firebasedatabase.app"
+  databaseURL: "https://poker-duel-26992-default-rtdb.europe-west1.firebasedatabase.app"
 };
 
 const firebaseDB = {
